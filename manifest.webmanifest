@@ -1,0 +1,18 @@
+{
+  "name": "Arcade Neón",
+  "short_name": "Arcade Neón",
+  "description": "9 minijuegos retro con estética neón para jugar solo o con un amigo en el mismo teclado.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#04050d",
+  "theme_color": "#04050d",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

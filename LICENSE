@@ -1,0 +1,15 @@
+Copyright (c) 2026 Arcade Neón. Todos los derechos reservados.
+
+Este repositorio contiene solo la versión publicada (compilada y minificada) de
+la web https://sse90s.github.io/arcade-neon/ para que GitHub Pages pueda servirla.
+
+NO es software libre. No se concede ninguna licencia: queda prohibido copiar,
+reproducir, modificar, distribuir, publicar en otro sitio o vender este juego o
+su código, en todo o en parte, sin permiso por escrito del titular, salvo en lo
+que permita la ley.
+
+Se excluyen las partes de terceros, que siguen sus propias licencias:
+- pokedata.js: datos de combate de Pokémon Showdown (licencia MIT,
+  https://github.com/smogon/pokemon-showdown).
+- Pokémon y los nombres de los Pokémon son marcas de Nintendo, Creatures y
+  Game Freak. Este proyecto es un juego fan no oficial y gratuito.
