@@ -2,7 +2,7 @@
 
 **Juega aquí: https://neonarcade.es/**
 
-8 minijuegos retro con estética neón para jugar en el navegador, solo o con un amigo en el mismo teclado: motos de luz, meteoritos, pong turbo, bloques, metro rush, combates Pokémon, ruleta europea y Super Bomber.
+7 minijuegos retro con estética neón para jugar en el navegador, solo o con un amigo en el mismo teclado: meteoritos, pong turbo, bloques, metro rush, combates Pokémon, ruleta europea y Super Bomber.
 
 Este repositorio solo contiene la versión publicada de la web (código minificado). El código fuente no es público.
 
